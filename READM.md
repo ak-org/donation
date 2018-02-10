@@ -1,10 +1,3 @@
-# Table of Contents
-1. [Introduction](README.md#introduction)
-2. [Repo directory structure](README.md#repo-directory-structure)
-3. [Code Details](README.md#code-details)
-4. [Test Suite](README.md#test-suite)
-5. [Environment](README.md#environment)
-
 
 # Introduction
 This code was written in response to the coding challenge organized by Insight DataScience. Additional details about the challenge are available at https://github.com/InsightDataScience/donation-analytics/blob/master/README.md
